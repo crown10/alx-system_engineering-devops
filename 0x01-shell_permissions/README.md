@@ -1,1 +1,1 @@
-(9)write a script that sets the mode of the file hello to this:
+(10)write a script that sets the mode of the file to the same as ollehs mode
