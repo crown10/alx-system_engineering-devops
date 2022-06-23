@@ -1,1 +1,1 @@
-(6)write a script that adds execute permissionto the own and the group owner,and read the permission to the other users,to the file hello
+(8)write a script that sets the permission to the file hello as follows:
