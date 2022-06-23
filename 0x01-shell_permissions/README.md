@@ -1,1 +1,1 @@
-(1)create a script that switches the current user to betty. (2)
+(1)write a script that prints the effective usernameof the current user
