@@ -1,1 +1,1 @@
-(4)write a script that create an empty file called hell
+(5)write a script that adds execute permissionto the owner of the file hello
